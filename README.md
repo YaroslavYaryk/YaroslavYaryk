@@ -90,6 +90,6 @@ A full-featured real-time messaging platform built with Django Channels (WebSock
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavYaryk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavYaryk&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=YaroslavYaryk&theme=github-dark&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavYaryk&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" height="150" alt="top langs" />
 </div>
